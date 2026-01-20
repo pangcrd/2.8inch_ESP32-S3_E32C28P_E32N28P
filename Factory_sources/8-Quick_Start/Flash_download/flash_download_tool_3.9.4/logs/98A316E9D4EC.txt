@@ -1,0 +1,86 @@
+*************************** START ****************************
+START TIME: 202506241518
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x16e9d4ec
+mac h: 0x98a3
+get mac res: 1
+get flash id : 0x0018405e
+manufacturer_id: 0x5e
+device_id: 0x4018
+Wrote 5265072 bytes (2324365 compressed) at 0x00000000 in 24.9 seconds (effective 1689.8 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 31 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202506241520
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x16e9d4ec
+mac h: 0x98a3
+get mac res: 1
+get flash id : 0x0018405e
+manufacturer_id: 0x5e
+device_id: 0x4018
+Wrote 5265072 bytes (2324365 compressed) at 0x00000000 in 24.0 seconds (effective 1758.0 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 30 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202506241522
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+*************************** START ****************************
+START TIME: 202506241527
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x16e9d4ec
+mac h: 0x98a3
+get mac res: 1
+get flash id : 0x0018405e
+manufacturer_id: 0x5e
+device_id: 0x4018
+Wrote 5265072 bytes (2324365 compressed) at 0x00000000 in 23.7 seconds (effective 1775.0 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 30 s
+Download result: PASS
+*************************** END ****************************
+
